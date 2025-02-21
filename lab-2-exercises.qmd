@@ -244,6 +244,6 @@ slowest_species
 # Lastly, find and include an image of the fastest growing species. Add the image to your images directory.
 
 # Botanical sketch of PIRE, the fastest growing species in the database.
-![Botanical sketch of Pinus resinosa, red pine, the fastest growing species in the data base.](images/pinus_resinosa.png){.center}
+!["Botanical sketch of Pinus resinosa, red pine, the fastest growing species in the data base."](images/pinus_resinosa.png){.center}
 ```
 The three fastest growing species are Pinus resinosa, Populus tremuloides and Pinus banksiana. The three slowest growing species are Larix laricina, Thuja occidentalis, Quercus rubra. The fastest growth rate was ~0.358 cm per year at breast height. The slowest growth rate was ~0.150 cm per year at breast height.
