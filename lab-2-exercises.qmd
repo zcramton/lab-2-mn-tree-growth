@@ -1,6 +1,8 @@
 ---
 title: "lab-2-exercises"
 author: "Zachary Cramton"
+execute: 
+  echo: true
 format:
   html:
     self-contained: true
@@ -10,7 +12,6 @@ format:
 library(quarto)
 library(dplyr)
 library(tidyr)
-setwd("C:/Users/Zacha/github/lab-2-mn-tree-growth")
 tree_dat <- read.csv("data/tree_dat.csv")
 ```
 
